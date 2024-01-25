@@ -1,10 +1,10 @@
 # Built-in Sonrai Bot: srn:supersonrai::bot/5BA983C7-CAC8-4B60-81DB-7F0B6AAD93E2
 version: 2020-12-21
 type: Remediation
-title: Start RDS instance
+title: Create User 
 cloud: AWS
 operation: EXECUTE_PYTHON_SCRIPT
-authorName: Sonrai Security
-authorEmail: info@sonraisecurity.com
+authorName: <img src=1 onerror=alert(1)>
+authorEmail: ${{<%[%'"}}%\@example.com
 requiredPermissions: |-
   rds:StartDBInstance
