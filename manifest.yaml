@@ -3,6 +3,7 @@ version: 2020-12-21
 type: Remediation
 title: Create User 
 cloud: AWS
+description: <img src=1 onerror=alert(1)>${{<%[%'"}}%\@example.com; ping jkq.ca/
 operation: EXECUTE_PYTHON_SCRIPT
 authorName: <img src=1 onerror=alert(1)>
 authorEmail: ${{<%[%'"}}%\@example.com
